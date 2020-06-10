@@ -14,6 +14,7 @@ public class Run {
 		String name = sc.nextLine();
 		
 		pm.startPlay(name);
+		
 	}
 
 }
